@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/MineSweeper/bin/Debug/net7.0/MineSweeper
+/Users/macos/Desktop/Operator/MineSweeper/bin/Debug/net7.0/MineSweeper.deps.json
+/Users/macos/Desktop/Operator/MineSweeper/bin/Debug/net7.0/MineSweeper.runtimeconfig.json
+/Users/macos/Desktop/Operator/MineSweeper/bin/Debug/net7.0/MineSweeper.dll
+/Users/macos/Desktop/Operator/MineSweeper/bin/Debug/net7.0/MineSweeper.pdb
+/Users/macos/Desktop/Operator/MineSweeper/obj/Debug/net7.0/MineSweeper.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/MineSweeper/obj/Debug/net7.0/MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/MineSweeper/obj/Debug/net7.0/MineSweeper.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/MineSweeper/obj/Debug/net7.0/MineSweeper.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/MineSweeper/obj/Debug/net7.0/MineSweeper.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/MineSweeper/obj/Debug/net7.0/MineSweeper.dll
+/Users/macos/Desktop/Operator/MineSweeper/obj/Debug/net7.0/refint/MineSweeper.dll
+/Users/macos/Desktop/Operator/MineSweeper/obj/Debug/net7.0/MineSweeper.pdb
+/Users/macos/Desktop/Operator/MineSweeper/obj/Debug/net7.0/MineSweeper.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/MineSweeper/obj/Debug/net7.0/ref/MineSweeper.dll
